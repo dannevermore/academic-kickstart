@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "&iPerformance {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "gtag('set', {'user_id': 'UA-137910327-1'}); // Définir l'ID utilisateur à partir du paramètre user_id de l'utilisateur connecté."
+googleAnalytics = "UA-137910327-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "Dan Nevermore"
